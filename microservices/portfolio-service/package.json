@@ -1,0 +1,7 @@
+{
+  "name": "@thraa/portfolio-service",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Holdings and valuation.",
+  "scripts": {}
+}

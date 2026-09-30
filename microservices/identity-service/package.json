@@ -1,0 +1,7 @@
+{
+  "name": "@thraa/identity-service",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Registration, login, and user identity.",
+  "scripts": {}
+}

@@ -1,0 +1,7 @@
+{
+  "name": "@thraa/wallet-service",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Virtual balances and ledger.",
+  "scripts": {}
+}

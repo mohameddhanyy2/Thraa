@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build/test output
+dist/
+coverage/
+.nyc_output/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Editors / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Documents
+# All docs/*.md files are shared project documentation and ARE committed.
+# Keep personal/team-private notes out of the repo:
+docs/private/
+*.private.md
+*.local.md
+# Office/editor lock and temp files
+~$*
+.~lock.*#
+*.tmp
+# Exported/generated copies of docs (regenerate from the .md sources)
+docs/**/*.pdf
+docs/**/*.docx
